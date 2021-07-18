@@ -1,0 +1,10 @@
+h1,h2 {
+    font-size : 60px;
+    font-family: 'Lilita One', cursive;
+    text-align: center;
+}
+
+#div-btn {
+    width: 50%;
+    margin-left: 38%;
+}
